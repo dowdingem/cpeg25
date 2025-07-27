@@ -11,6 +11,8 @@ Understanding how biodiversity has changed through geological time and which mec
 
 To get ready for the workshop, please follow the installation [instructions](https://github.com/thauffe/cpeg25/tree/main/programs)
 
+EMD: Ensure that the PATH is set up for both the relevant version of R (at the time of the workshop 270726 4.5) and of Python (an older version, being 4.12, the later versions will not work). Much of the set up and the virtual environment will be done in CD, but dont be a goose and do the R portion in CD!!!.
+
 ## Tutorials
 1. [PyRate](https://github.com/thauffe/cpeg25/tree/main/tutorials/PyRate)
 2. [BDNN](https://github.com/thauffe/cpeg25/tree/main/tutorials/BDNN)
