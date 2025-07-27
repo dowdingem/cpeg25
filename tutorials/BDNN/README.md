@@ -104,6 +104,8 @@ This analysis will take ca. 5-10 min.
 
 The BDNN run creates a new folder called _pyrate_mcmc_logs_ in your _bdnn_analysis_ directory. As with the standard Pyrate diversification analysis, we can plot speciation and extinction rates through time. 
 
+EMD: If this doesnt work in CD you can open the R script in R and run it there. 
+
 * Windows
 
     ```
